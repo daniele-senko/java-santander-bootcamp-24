@@ -1,3 +1,4 @@
+package edu.anatomia.dois;
 public class anatomiaDois {
     public static void main (String [] args){
        //palavra final é reservada para manter a variável imutavel
