@@ -1,3 +1,9 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "sintaxe/src/edu.tipos-variaveis/tiposvariaveis",
+        "sintaxe/src/edu.operadores/um",
+        "sintaxe/src/edu.operadores/dois",
+        "sintaxe/src/edu.operadores/tres"
+    ]
 }
