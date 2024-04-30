@@ -4,6 +4,7 @@
         "sintaxe/src/edu.tipos-variaveis/tiposvariaveis",
         "sintaxe/src/edu.operadores/tres",
         "sintaxe/src/edu.operadores/dois",
-        "sintaxe/src/edu.operadores/cinco"
+        "sintaxe/src/edu.operadores/cinco",
+        "sintaxe/src/edu.operadores/seis"
     ]
 }
