@@ -3,9 +3,10 @@
     "java.project.sourcePaths": [
         "sintaxe/src/edu.tipos-variaveis/tiposvariaveis",
         "sintaxe/src/edu.operadores/tres",
+        "sintaxe/src/edu.operadores/sete",
         "sintaxe/src/edu.operadores/seis",
         "sintaxe/src/edu.operadores/dois",
         "sintaxe/src/edu.operadores/cinco",
-        "sintaxe/src/edu.operadores/sete"
+        "sintaxe/src/edu.metodos/tres"
     ]
 }
