@@ -7,6 +7,7 @@
         "sintaxe/src/edu.operadores/seis",
         "sintaxe/src/edu.operadores/dois",
         "sintaxe/src/edu.operadores/cinco",
-        "sintaxe/src/edu.metodos/tres"
+        "sintaxe/src/edu.metodos/tres",
+        "sintaxe/src/ContaBanco"
     ]
 }
