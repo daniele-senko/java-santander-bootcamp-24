@@ -1,5 +1,15 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
-    "java.project.sourcePaths": [],
+    "java.project.sourcePaths": [
+        "java-dio/src/estruturasCondicionais/condicionalComposta",
+        "java-dio/src/estruturasCondicionais/condicionalSimples""java-dio/src/sintaxe/edu.tipos-variaveis/tiposvariaveis",
+        "java-dio/src/sintaxe/edu.operadores/tres",
+        "java-dio/src/sintaxe/edu.operadores/sete",
+        "java-dio/src/sintaxe/edu.operadores/seis",
+        "java-dio/src/sintaxe/edu.operadores/dois",
+        "java-dio/src/sintaxe/edu.operadores/cinco",
+        "java-dio/src/sintaxe/edu.metodos/tres",
+        "java-dio/src/sintaxe/ContaBanco",
+    ],
     "java.project.referencedLibraries": []
 }
